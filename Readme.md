@@ -20,8 +20,8 @@ Se puede encerrar cada encabezado entre almohadillas, por motivos puramente est�
 
 Para agregar citas a un texto se utiliza el signo > por ejemplo:
 
->Esto es un cita de un texto
->Continuación de la cita
+> Esto es un cita de un texto
+> Continuación de la cita
 
 ## Listas
 ### Desordenadas
