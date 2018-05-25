@@ -2,7 +2,7 @@
 
 Markdown es un lenguaje de marcado que tiene como objetivo el hacer más fácil la tarea de dar formato a un texto mediante el uso de algunos caracteres.
 
-##Encabezados
+## Encabezados ##
 Existen hasta seis niveles y para generarlos se agrega # al comienzo de una palabra o frase por ejemplo:
 
 #Encabezado 1 (h1) con 1 &#35;
@@ -16,7 +16,7 @@ Se puede encerrar cada encabezado entre almohadillas, por motivos puramente est�
 
 ### Esto es un encabezado H3 ###
 
-##Citas
+## Citas ##
 
 Para agregar citas a un texto se utiliza el signo > por ejemplo:
 
